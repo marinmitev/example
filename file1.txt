@@ -1,3 +1,4 @@
 Hello World!
 OK
 Started new feature
+Continued new feature
